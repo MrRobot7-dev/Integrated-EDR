@@ -1,0 +1,79 @@
+{
+    "files": {
+        "C:\\Windows\\System32\\config\\SOFTWARE": {
+            "last_modified": "N/A"
+        },
+        "C:\\Windows\\System32\\drivers\\etc\\hosts": {
+            "last_modified": "2019-12-07 14:42:44"
+        },
+        "C:\\Windows\\System32\\lsass.exe": {
+            "last_modified": "2025-03-13 09:26:03"
+        },
+        "C:\\Windows\\System32\\userinit.exe": {
+            "last_modified": "2024-09-28 14:36:17"
+        },
+        "C:\\Windows\\System32\\winlogon.exe": {
+            "last_modified": "2025-03-26 15:15:04"
+        },
+        "C:\\Windows\\explorer.exe": {
+            "last_modified": "2025-03-29 14:23:42"
+        },
+        "C:\\Windows\\regedit.exe": {
+            "last_modified": "2024-09-28 14:37:42"
+        },
+        "C:\\Windows\\system.ini": {
+            "last_modified": "2019-12-07 14:42:42"
+        },
+        "C:\\Windows\\win.iniC:\\Windows\\System32\\config\\SYSTEM": {
+            "last_modified": "N/A"
+        }
+    },
+    "registry": {
+        "SECURITY\\POLICY\\SECRETS": {
+            "data": "N/A"
+        },
+        "SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\Windows": {
+            "appinit_dlls": "\u0000",
+            "iconservicelib": "IconCodecService.dll\u0000",
+            "loadappinit_dlls": "\u0000\u0000\u0000\u0000"
+        },
+        "SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Explorer\\Shell Folders": {
+            "common startup": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Startup\u0000",
+            "startup": "N/A"
+        },
+        "SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Explorer\\User Shell Folders": {
+            "common startup": "%ProgramData%\\Microsoft\\Windows\\Start Menu\\Programs\\Startup\u0000",
+            "startup": "N/A"
+        },
+        "SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Run": {
+            "data": "N/A"
+        },
+        "SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\RunOnce": {
+            "data": "N/A"
+        },
+        "SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\RunServicesOnce": {
+            "data": "N/A"
+        },
+        "SOFTWARE\\WOW6432Node\\Microsoft\\Cryptography\\OID": {
+            "data": "N/A"
+        },
+        "SOFTWARE\\WOW6432Node\\Microsoft\\Windows\\CurrentVersion\\Explorer\\Shell Folders": {
+            "common startup": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Startup\u0000",
+            "startup": "N/A"
+        },
+        "SOFTWARE\\WOW6432Node\\Microsoft\\Windows\\CurrentVersion\\Explorer\\User Shell Folders": {
+            "common startup": "%ProgramData%\\Microsoft\\Windows\\Start Menu\\Programs\\Startup\u0000",
+            "startup": "N/A"
+        },
+        "SOFTWARE\\WOW6432Node\\Microsoft\\Windows\\CurrentVersion\\Run": {
+            "data": "N/A"
+        },
+        "SOFTWARE\\WOW6432Node\\Microsoft\\Windows\\CurrentVersion\\RunOnce": {
+            "data": "N/A"
+        },
+        "SOFTWARE\\WOW6432Node\\Microsoft\\Windows\\NT\\CurrentVersion\\Windows": {
+            "appinit_dlls": "N/A",
+            "loadappinit_dlls": "N/A"
+        }
+    }
+}
